@@ -74,10 +74,8 @@ it should be!)
 
 ## 🔭 Current Projects
 
-- [Regex Engine](https://github.com/mkpro118/Regex-Engine):
-A simple regex engine built from scratch in C. Why? Because I love
-understanding how things work under the hood!
-No high-level libraries here, just pure C goodness.
+- [Mini Git](https://github.com/mkpro118/Regex-Engine):
+A simple re-implementation of the Git VCS built from scratch in Rust.
 - [GreekoSystem](https://github.com/greekosystem):
 An ecosystem for Greek life executive management. We're making communication
 and organization in fraternities and sororities a breeze!
