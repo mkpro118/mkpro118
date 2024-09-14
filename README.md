@@ -74,7 +74,7 @@ it should be!)
 
 ## 🔭 Current Projects
 
-- [Mini Git](https://github.com/mkpro118/Regex-Engine):
+- [Mini Git](https://github.com/mkpro118/mini-git):
 A simple re-implementation of the Git VCS built from scratch in Rust.
 - [GreekoSystem](https://github.com/greekosystem):
 An ecosystem for Greek life executive management. We're making communication
